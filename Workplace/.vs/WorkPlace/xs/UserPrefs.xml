@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.WorkPlace.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/Projects/WorkPlace/WorkPlace.Core/Entities/Employee.cs">
+    <Files>
+      <File FileName="../../Desktop/Projects/WorkPlace/WorkPlace.Core/Entities/Employee.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkPlace" expanded="True">
+            <Node name="WorkPlace.Core" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
