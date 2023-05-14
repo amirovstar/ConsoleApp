@@ -1,0 +1,15 @@
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/bin/Debug/net6.0/WorkPlace.DataAcces.deps.json
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/bin/Debug/net6.0/WorkPlace.DataAcces.dll
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/bin/Debug/net6.0/WorkPlace.DataAcces.pdb
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/bin/Debug/net6.0/WorkPlace.Core.dll
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/bin/Debug/net6.0/WorkPlace.Core.pdb
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.csproj.AssemblyReference.cache
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.AssemblyInfoInputs.cache
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.AssemblyInfo.cs
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.csproj.CoreCompileInputs.cache
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.csproj.CopyComplete
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.dll
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/refint/WorkPlace.DataAcces.dll
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/WorkPlace.DataAcces.pdb
+/Users/furuktoza/Projects/WorkPlace/WorkPlace.DataAcces/obj/Debug/net6.0/ref/WorkPlace.DataAcces.dll
